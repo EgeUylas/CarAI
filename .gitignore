@@ -1,0 +1,18 @@
+# Dependency directories
+node_modules/
+
+# Build outputs
+dist/
+
+# Environment variables
+.env
+
+# Firebase config
+EngineEye/firebase.ts
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
